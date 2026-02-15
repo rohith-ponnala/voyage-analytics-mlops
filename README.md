@@ -28,9 +28,9 @@ This project demonstrates how ML models can be productionized and deployed as an
 ## How to Run Locally
 
 1. Install dependencies
-#pip install -r requirements.txt
+pip install -r requirements.txt
 
 2. Run Streamlit
-#cd streamlit_app
-#streamlit run app.py
+cd streamlit_app
+streamlit run app.py
 
